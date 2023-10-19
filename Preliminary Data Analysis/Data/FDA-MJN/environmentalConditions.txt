@@ -1,0 +1,338 @@
+PrimaryDI|storageHandlingType|storageHandlingHigh (Unit)|storageHandlingHigh (Value)|storageHandlingLow (Unit)|storageHandlingLow (Value)|storageHandlingSpecialConditionText
+00836462006010|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00836462004689|Special Storage Condition, Specify|||||Keep dry;AVOID DIRECT SUNLIGHT
+00836462004665|Special Storage Condition, Specify|||||Keep dry;AVOID DIRECT SUNLIGHT
+00836462004641|Special Storage Condition, Specify|||||Keep dry;AVOID DIRECT SUNLIGHT
+00836462004627|Special Storage Condition, Specify|||||Keep dry;AVOID DIRECT SUNLIGHT
+00836462004603|Special Storage Condition, Specify|||||Keep dry;AVOID DIRECT SUNLIGHT
+00836462004580|Special Storage Condition, Specify|||||Keep dry;AVOID DIRECT SUNLIGHT
+00836462004467|Special Storage Condition, Specify|||||Keep dry;AVOID DIRECT SUNLIGHT
+00836462004184|Special Storage Condition, Specify|||||Keep dry;AVOID DIRECT SUNLIGHT
+00836462004177|Special Storage Condition, Specify|||||Keep dry; Avoid direct sunlight
+00836462004146|Special Storage Condition, Specify|||||Keep dry; Avoid direct sunlight
+00836462004122|Special Storage Condition, Specify|||||Keep dry; Avoid direct sunlight
+00836462004559|Special Storage Condition, Specify|||||Keep dry;AVOID DIRECT SUNLIGHT
+00836462004542|Special Storage Condition, Specify|||||Keep dry;AVOID DIRECT SUNLIGHT
+00836462004481|Special Storage Condition, Specify|||||Keep dry;AVOID DIRECT SUNLIGHT
+00836462004207|Special Storage Condition, Specify|||||Keep dry;AVOID DIRECT SUNLIGHT
+00836462004115|Special Storage Condition, Specify|||||Keep dry; Avoid direct sunlight
+M781DFH80115901|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M781DFH80115801|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M781DFH60115901|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M781DFH60115801|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M781DFH10135901|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M781DFH10115901|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M781DFH10115801|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M781DF80115801|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M781DF60115801|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M781DF45115801|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M781DF10135901|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M781DF10115801|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819680801|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819660601|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819645251|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819610101|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819445451|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819280801|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819260601|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819260251|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819245451|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819245251|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819210101|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819180801|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819180601|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819180451|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819180251|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819160601|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819160451|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819160251|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819145451|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819145251|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819110801|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819110601|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M7819110451|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M78110480801|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M78110460601|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M78110445451|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M78110080801|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M78110060601|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M78110045251|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+M78110010101|Handling Environment Temperature|Degrees Celsius|55|Degrees Celsius|-29|
+10887714025256|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025249|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025232|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025225|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025218|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025201|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025195|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025188|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025171|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025164|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025157|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025140|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025133|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025126|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025119|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025102|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025096|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025089|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025072|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025065|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025058|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025041|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025034|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025027|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025010|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714025003|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024990|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024983|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024976|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024969|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024952|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024945|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024938|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024921|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024914|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024907|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024891|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024884|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024877|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024860|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024853|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024846|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|4|
+10887714024839|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024822|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024815|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024808|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024792|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024785|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024778|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024761|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024754|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024747|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024730|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024723|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024716|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024709|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024693|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024686|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024679|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024662|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024655|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024648|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024631|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024624|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024617|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024600|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024594|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024587|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024570|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024563|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024556|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+10887714024549|Storage Environment Temperature|Degrees Celsius|45|Degrees Celsius|5|
+00811806011530|Special Storage Condition, Specify|||||Keep dry.
+00811806011523|Special Storage Condition, Specify|||||Keep dry.
+00811806011516|Special Storage Condition, Specify|||||Keep dry.
+20763000293424|Special Storage Condition, Specify|||||Store in a dry place, away from sunlight.
+00813132024840|Special Storage Condition, Specify|||||Keep dry
+00813132024666|Storage Environment Temperature|Degrees Fahrenheit|140|Degrees Fahrenheit||
+00813132023263|Storage Environment Temperature|Degrees Fahrenheit|140|Degrees Fahrenheit||
+00763000294595|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294595|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00763000294564|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00763000294564|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294533|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294533|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00763000294502|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294502|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00763000294472|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294472|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00763000294441|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294441|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00763000294410|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294410|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00763000294380|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294380|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00763000294359|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00763000294359|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294328|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00763000294328|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294298|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294298|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00763000294267|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00763000294267|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294236|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00763000294236|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294205|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294205|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00763000294175|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00763000294175|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294144|Special Storage Condition, Specify|||||This device should be stored in a dry place at between 50°F (10°C) and 90°F (32°C).
+00763000294144|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+07613327004526|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+07613327004496|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+07613327004472|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+07613327004465|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+07613327004441|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+07613327004434|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+07613327004427|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+00690103043754|Special Storage Condition, Specify|||||STORE IN A COOL, DRY PLACE.
+00690103043747|Special Storage Condition, Specify|||||STORE IN A COOL, DRY PLACE.
+00690103043730|Special Storage Condition, Specify|||||STORE IN A COOL, DRY PLACE.
+00690103043723|Special Storage Condition, Specify|||||STORE IN A COOL, DRY PLACE.
+00690103043716|Special Storage Condition, Specify|||||STORE IN A COOL, DRY PLACE.
+00878528001935|Storage Environment Temperature|Degrees Celsius|55|||
+00878528001935|Handling Environment Temperature|Degrees Fahrenheit|131|||
+00878528001935|Storage Environment Temperature|Degrees Fahrenheit|131|||
+00878528001935|Handling Environment Temperature|Degrees Celsius|55|||
+00878528001928|Handling Environment Temperature|Degrees Celsius|55|||
+00878528001928|Storage Environment Temperature|Degrees Celsius|55|||
+00878528001928|Storage Environment Temperature|Degrees Fahrenheit|131|||
+00878528001928|Handling Environment Temperature|Degrees Fahrenheit|131|||
+00878528001911|Handling Environment Temperature|Degrees Fahrenheit|131|||
+00878528001911|Storage Environment Temperature|Degrees Celsius|55|||
+00878528001911|Storage Environment Temperature|Degrees Fahrenheit|131|||
+00878528001911|Handling Environment Temperature|Degrees Celsius|55|||
+00878528001904|Storage Environment Temperature|Degrees Fahrenheit|131|||
+00878528001904|Handling Environment Temperature|Degrees Celsius|55|||
+00878528001904|Storage Environment Temperature|Degrees Celsius|55|||
+00878528001904|Handling Environment Temperature|Degrees Fahrenheit|131|||
+07613327004717|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+07613327004700|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+07613327004694|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+07613327004687|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+07613327004519|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+07613327004502|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+07613327004489|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+07613327004458|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+07613327004410|Special Storage Condition, Specify|||||Store in cool, dry, dark place.
+00847536005853|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005822|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005792|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005761|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005730|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005709|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005679|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005648|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005617|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005587|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005549|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005501|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005471|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005419|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005358|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005327|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005297|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005266|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005235|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005204|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005174|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005143|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005105|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005075|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536005020|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536004986|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536004948|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+00847536004863|Storage Environment Temperature|Degrees Fahrenheit|90|Degrees Fahrenheit|50|
+04046964512155|Special Storage Condition, Specify|||||KEEP DRY
+04046964512155|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512131|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512131|Special Storage Condition, Specify|||||KEEP DRY
+04046964512131|Special Storage Condition, Specify|||||
+04046964512094|Special Storage Condition, Specify|||||KEEP DRY
+04046964512094|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512056|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512056|Special Storage Condition, Specify|||||KEEP DRY
+04046964511967|Special Storage Condition, Specify|||||
+04046964511967|Special Storage Condition, Specify|||||KEEP DRY
+04046964511967|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046955677405|Special Storage Condition, Specify|||||
+04046955677405|Special Storage Condition, Specify|||||KEEP DRY
+04046955677405|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046955677382|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046955677382|Special Storage Condition, Specify|||||KEEP DRY
+04046955677382|Special Storage Condition, Specify|||||
+04046955677368|Special Storage Condition, Specify|||||
+04046955677368|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046955677368|Special Storage Condition, Specify|||||KEEP DRY
+04046955677344|Special Storage Condition, Specify|||||
+04046955677344|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046955677344|Special Storage Condition, Specify|||||KEEP DRY
+04046955677320|Special Storage Condition, Specify|||||KEEP DRY
+04046955677320|Special Storage Condition, Specify|||||
+04046955677320|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046955677306|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046955677306|Special Storage Condition, Specify|||||KEEP DRY
+04046955677306|Special Storage Condition, Specify|||||
+04046955677283|Special Storage Condition, Specify|||||
+04046955677283|Special Storage Condition, Specify|||||KEEP DRY
+04046955677283|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046955677269|Special Storage Condition, Specify|||||
+04046955677269|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046955677269|Special Storage Condition, Specify|||||KEEP DRY
+04046955677245|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046955677245|Special Storage Condition, Specify|||||
+04046955677245|Special Storage Condition, Specify|||||KEEP DRY
+04046955677221|Special Storage Condition, Specify|||||KEEP DRY
+04046955677221|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046955677221|Special Storage Condition, Specify|||||
+04046964512186|Special Storage Condition, Specify|||||KEEP DRY
+04046964512186|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512186|Special Storage Condition, Specify|||||
+04046964512179|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512179|Special Storage Condition, Specify|||||KEEP DRY
+04046964512162|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512162|Special Storage Condition, Specify|||||KEEP DRY
+04046964512162|Special Storage Condition, Specify|||||
+04046964512148|Special Storage Condition, Specify|||||KEEP DRY
+04046964512148|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512124|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512124|Special Storage Condition, Specify|||||KEEP DRY
+04046964512117|Special Storage Condition, Specify|||||KEEP DRY
+04046964512117|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512117|Special Storage Condition, Specify|||||
+04046964512100|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512100|Special Storage Condition, Specify|||||KEEP DRY
+04046964512087|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512087|Special Storage Condition, Specify|||||KEEP DRY
+04046964512070|Special Storage Condition, Specify|||||
+04046964512070|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512070|Special Storage Condition, Specify|||||KEEP DRY
+04046964512063|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512063|Special Storage Condition, Specify|||||KEEP DRY
+04046964512049|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512049|Special Storage Condition, Specify|||||KEEP DRY
+04046964512032|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512032|Special Storage Condition, Specify|||||KEEP DRY
+04046964512032|Special Storage Condition, Specify|||||
+04046964512025|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512025|Special Storage Condition, Specify|||||KEEP DRY
+04046964512018|Special Storage Condition, Specify|||||KEEP DRY
+04046964512018|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512018|Special Storage Condition, Specify|||||
+04046964512001|Special Storage Condition, Specify|||||KEEP DRY
+04046964512001|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964512001|Special Storage Condition, Specify|||||
+04046964511998|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964511998|Special Storage Condition, Specify|||||KEEP DRY
+04046964511998|Special Storage Condition, Specify|||||
+04046964511981|Special Storage Condition, Specify|||||KEEP DRY
+04046964511981|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964511974|Special Storage Condition, Specify|||||KEEP DRY
+04046964511974|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964511974|Special Storage Condition, Specify|||||
+04046964311055|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964311031|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964311017|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964310997|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964310973|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964310959|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964310935|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+04046964310911|Special Storage Condition, Specify|||||ROOM TEMP AWAY FROM SUNLIGHT
+00818053023002|Special Storage Condition, Specify|||||Store in a dry place at room temperature and away from light
+00818053022982|Special Storage Condition, Specify|||||Store in a dry place at room temperature and away from light
+00818053022968|Special Storage Condition, Specify|||||Store in a dry place at room temperature and away from light
+00818053022944|Special Storage Condition, Specify|||||Store in a dry place at room temperature and away from light
+00818053022937|Special Storage Condition, Specify|||||Store in a dry place at room temperature and away from light
+00818053022920|Special Storage Condition, Specify|||||Store in a dry place at room temperature and away from light
+00850001105057|Special Storage Condition, Specify|||||store in a dark, dry, cool place. avoid extended exposure to light.  

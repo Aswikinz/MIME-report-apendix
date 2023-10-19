@@ -1,0 +1,146 @@
+---
+title: "FDA approved/Registerd Catheter, Intravascular Occluding Devices V1"
+author: "Aswin Kithalawaarachchi"
+date: "2023-08-16"
+output:
+  html_document:
+    code_folding: hide
+---
+
+```{r warning=FALSE}
+library("tidyverse")
+library("kableExtra")
+library("ggplot2")
+library("lubridate")
+```
+
+
+Data was obtained from the FDA databse and Filterd under the CODE MJN(Catheter, Intravascular Occluding, Temporary)
+
+```{r include=FALSE}
+data <- read.csv("Data/FDA-MJN/device.txt", header = TRUE, sep = "|")
+head(data,1)
+
+```
+
+
+## Names of all the companies that make these devices
+
+```{r}
+companies <- data %>% select(companyName) %>% distinct()
+companies %>% kable()
+```
+
+
+
+
+
+## Different brands of deviced by company name
+
+```{r}
+brands <- data %>%  group_by(companyName) %>% select(brandName,companyName) %>% distinct()
+brands %>% kable()
+```
+
+## Visualisation of Different brands by company with the distribution status
+
+```{r Message=FALSE}
+
+
+# Summarize data
+brand_counts <- data %>%
+  group_by(companyName, deviceCommDistributionStatus) %>%
+  summarise(unique_brands = n_distinct(brandName)) %>%
+  arrange(companyName, -unique_brands)
+
+# Plot bar chart
+ggplot(brand_counts, aes(x = reorder(companyName, -unique_brands), y = unique_brands, fill = deviceCommDistributionStatus)) +
+  geom_col(position = "dodge") +
+  labs(title = "Number of Unique Brands per Company", x = "Company", y = "Number of Unique Brands") +
+  coord_flip() +
+  theme_minimal() +
+  theme(legend.position = "bottom") +
+  guides(fill = guide_legend(title = NULL))
+
+
+```
+
+
+
+##  Times takes for a device to come to the public after being registred 
+
+
+
+
+accordingly on avarage it takes about 1052 days/2.88 years for a device to be registerd and be ready for the public 
+
+
+# From this point onwards the data is filterd to only include REBOA devices 
+
+
+
+
+
+```{r}
+reboa_df <- read_csv("Data/reboa_filter.csv")
+
+joined_df <- data %>% 
+  inner_join(reboa_df, by = c("brandName" = "device name"))
+
+```
+```{r}
+brands_filterd <- joined_df %>%  group_by(companyName) %>% select(brandName,companyName) %>% distinct()
+brands_filterd %>% kable()
+```
+
+```{r}
+
+# Summarize data
+brand_counts <- joined_df %>%
+  group_by(companyName, deviceCommDistributionStatus) %>%
+  summarise(unique_brands = n_distinct(brandName)) %>%
+  arrange(companyName, -unique_brands)
+
+# Plot bar chart
+ggplot(brand_counts, aes(x = reorder(companyName, -unique_brands), y = unique_brands, fill = deviceCommDistributionStatus)) +
+  geom_col(position = "dodge") +
+  labs(title = "Number of Unique REBOA Brands per Company", x = "Company", y = "Number of Unique Brands") +
+  coord_flip() +
+  theme_minimal() +
+  theme(legend.position = "bottom") +
+  guides(fill = guide_legend(title = NULL))
+
+```
+
+```{r}
+joined_df %>%
+  ggplot(aes(x = deviceCommDistributionStatus)) +
+  geom_bar() +
+  theme_minimal() +
+  labs(title = "Distribution of Device Commercial Distribution Status",
+       x = "Distribution Status",
+       y = "Count")
+```
+
+
+
+
+```{r}
+# Bar chart of version statuses
+joined_df %>%
+  ggplot(aes(x = publicVersionStatus)) +
+  geom_bar() +
+  theme_minimal() +
+  labs(title = "Distribution of Public Version Statuses",
+       x = "Version Status",
+       y = "Count")
+
+
+```
+
+this graph says how many devices have undergone updates and how many have not 
+
+
+
+
+

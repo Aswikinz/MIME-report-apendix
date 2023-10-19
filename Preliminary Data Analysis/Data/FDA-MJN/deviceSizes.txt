@@ -1,0 +1,384 @@
+PrimaryDI|sizeType|size (Unit)|size (Value)|sizeText
+00836462004689|Outer Diameter|Millimeter|7|
+00836462004689|Length|Millimeter|15|
+00836462004665|Length|Millimeter|20|
+00836462004665|Outer Diameter|Millimeter|4|
+00836462004641|Length|Millimeter|15|
+00836462004641|Outer Diameter|Millimeter|4|
+00836462004627|Length|Millimeter|15|
+00836462004627|Outer Diameter|Millimeter|3|
+00836462004603|Length|Millimeter|7|
+00836462004603|Outer Diameter|Millimeter|3|
+00836462004580|Outer Diameter|Millimeter|5|
+00836462004580|Length|Millimeter|30|
+00836462004467|Length|Millimeter|15|
+00836462004467|Outer Diameter|Millimeter|5|
+00836462004184|Length|Millimeter|7|
+00836462004184|Outer Diameter|Millimeter|4|
+00836462004177|Outer Diameter|Millimeter|4|
+00836462004177|Length|Millimeter|30|
+00836462004146|Length|Millimeter|20|
+00836462004146|Outer Diameter|Millimeter|4|
+00836462004122|Length|Millimeter|10|
+00836462004122|Outer Diameter|Millimeter|4|
+00836462004559|Outer Diameter|Millimeter|3|
+00836462004559|Length|Millimeter|15|
+00836462004542|Outer Diameter|Millimeter|3|
+00836462004542|Length|Millimeter|10|
+00836462004481|Length|Millimeter|20|
+00836462004481|Outer Diameter|Millimeter|5|
+00836462004207|Outer Diameter|Millimeter|7|
+00836462004207|Length|Millimeter|7|
+00836462004115|Length|Millimeter|15|
+00836462004115|Outer Diameter|Millimeter|4|
+M781DFH80115901|Device Size Text, specify|||Outflow Length: 90 cm
+M781DFH80115901|Device Size Text, specify|||Inflow Length: 115 cm	
+M781DFH80115901|Device Size Text, specify|||Balloon Diameter: 8.0 mm
+M781DFH80115901|Device Size Text, specify|||Sheath Compatibility: 14 Fr
+M781DFH80115801|Device Size Text, specify|||Sheath Compatibility: 14 Fr
+M781DFH80115801|Device Size Text, specify|||Outflow Length: 80 cm		
+M781DFH80115801|Device Size Text, specify|||Inflow Length: 115 cm	
+M781DFH80115801|Device Size Text, specify|||Balloon Diameter: 8.0 mm
+M781DFH60115901|Device Size Text, specify|||Sheath Compatibility: 14 Fr
+M781DFH60115901|Device Size Text, specify|||Outflow Length: 90 cm	
+M781DFH60115901|Device Size Text, specify|||Inflow Length: 115 cm	
+M781DFH60115901|Device Size Text, specify|||Balloon Diameter: 6.0 mm	
+M781DFH60115801|Device Size Text, specify|||Sheath Compatibility: 14 Fr
+M781DFH60115801|Device Size Text, specify|||Outflow Length: 80 cm
+M781DFH60115801|Device Size Text, specify|||Inflow Length: 115 cm	
+M781DFH60115801|Device Size Text, specify|||Balloon Diameter: 6.0 mm	
+M781DFH10135901|Device Size Text, specify|||Sheath Compatibility: 14 Fr
+M781DFH10135901|Device Size Text, specify|||Outflow Length: 90 cm	
+M781DFH10135901|Device Size Text, specify|||Inflow Length: 135 cm
+M781DFH10135901|Device Size Text, specify|||Balloon Diameter: 10.0 mm	
+M781DFH10115901|Device Size Text, specify|||Sheath Compatibility: 14 Fr
+M781DFH10115901|Device Size Text, specify|||Outflow Length: 90 cm		
+M781DFH10115901|Device Size Text, specify|||Inflow Length: 115 cm	
+M781DFH10115901|Device Size Text, specify|||Balloon Diameter: 10.0 mm	
+M781DFH10115801|Device Size Text, specify|||Outflow Length: 80 cm	
+M781DFH10115801|Device Size Text, specify|||Inflow Length: 115 cm
+M781DFH10115801|Device Size Text, specify|||Balloon Diameter: 10.0 mm
+M781DFH10115801|Device Size Text, specify|||Sheath Compatibility: 14 Fr
+M781DF80115801|Device Size Text, specify|||Outflow Length: 80 cm
+M781DF80115801|Device Size Text, specify|||Inflow Length: 115 cm
+M781DF80115801|Device Size Text, specify|||Balloon Diameter: 8.0 mm
+M781DF80115801|Device Size Text, specify|||Sheath Compatibility: 14 Fr
+M781DF60115801|Device Size Text, specify|||Outflow Length: 80 cm	
+M781DF60115801|Device Size Text, specify|||Inflow Length: 115 cm	
+M781DF60115801|Device Size Text, specify|||Balloon Diameter: 6.0 mm
+M781DF60115801|Device Size Text, specify|||Sheath Compatibility: 14 Fr
+M781DF45115801|Device Size Text, specify|||Outflow Length: 80 cm
+M781DF45115801|Device Size Text, specify|||Inflow Length: 115 cm
+M781DF45115801|Device Size Text, specify|||Balloon Diameter: 4.5 mm
+M781DF45115801|Device Size Text, specify|||Sheath Compatibility: 14 Fr
+M781DF10135901|Device Size Text, specify|||Sheath Compatibility: 14 Fr
+M781DF10135901|Device Size Text, specify|||Outflow Length: 90 cm	
+M781DF10135901|Device Size Text, specify|||Inflow Length: 135 cm
+M781DF10135901|Device Size Text, specify|||Balloon Diameter: 10.0 mm
+M781DF10115801|Device Size Text, specify|||Sheath Compatibility: 14 Fr
+M781DF10115801|Device Size Text, specify|||Outflow Length: 80 cm
+M781DF10115801|Device Size Text, specify|||Inflow Length: 115 cm	
+M781DF10115801|Device Size Text, specify|||Balloon Diameter: 10.0 mm
+M7819680801|Device Size Text, specify|||Sheath Compatibility: 8 Fr
+M7819680801|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819680801|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819680801|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819680801|Device Size Text, specify|||Distal Balloon Diameter: 8.0 mm
+M7819680801|Device Size Text, specify|||Proximal Balloon Diameter: 8.0 mm
+M7819660601|Device Size Text, specify|||Sheath Compatibility: 8 Fr
+M7819660601|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819660601|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819660601|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819660601|Device Size Text, specify|||Distal Balloon Diameter: 6.0 mm
+M7819660601|Device Size Text, specify|||Proximal Balloon Diameter: 6.0 mm
+M7819645251|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819645251|Device Size Text, specify|||Distal Balloon Diameter: 2.5 mm
+M7819645251|Device Size Text, specify|||Proximal Balloon Diameter: 4.5 mm
+M7819645251|Device Size Text, specify|||Sheath Compatibility: 8 Fr
+M7819645251|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819645251|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819610101|Device Size Text, specify|||Sheath Compatibility: 8 Fr
+M7819610101|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819610101|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819610101|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819610101|Device Size Text, specify|||Distal Balloon Diameter: 10.0 mm
+M7819610101|Device Size Text, specify|||Proximal Balloon Diameter: 10.0 mm
+M7819445451|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819445451|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819445451|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 145 cm
+M7819445451|Device Size Text, specify|||Proximal Balloon Shaft Length: 115 cm
+M7819445451|Device Size Text, specify|||Distal Balloon Diameter: 4.5 mm
+M7819445451|Device Size Text, specify|||Proximal Balloon Diameter: 4.5 mm
+M7819280801|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819280801|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819280801|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819280801|Device Size Text, specify|||Distal Balloon Diameter: 8.0 mm
+M7819280801|Device Size Text, specify|||Proximal Balloon Diameter: 8.0 mm
+M7819280801|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819260601|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819260601|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819260601|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819260601|Device Size Text, specify|||Distal Balloon Diameter: 6.0 mm
+M7819260601|Device Size Text, specify|||Proximal Balloon Diameter: 6.0 mm
+M7819260601|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819260251|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819260251|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819260251|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819260251|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819260251|Device Size Text, specify|||Distal Balloon Diameter: 2.5 mm
+M7819260251|Device Size Text, specify|||Proximal Balloon Diameter: 6.0 mm
+M7819245451|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819245451|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819245451|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819245451|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819245451|Device Size Text, specify|||Distal Balloon Diameter: 4.5 mm
+M7819245451|Device Size Text, specify|||Proximal Balloon Diameter: 4.5 mm
+M7819245251|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819245251|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819245251|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819245251|Device Size Text, specify|||Distal Balloon Diameter: 2.5 mm
+M7819245251|Device Size Text, specify|||Proximal Balloon Diameter: 4.5 mm
+M7819245251|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819210101|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819210101|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819210101|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819210101|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819210101|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819210101|Device Size Text, specify|||Distal Balloon Diameter: 10.0 mm
+M7819210101|Device Size Text, specify|||Proximal Balloon Diameter: 10.0 mm
+M7819180801|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819180801|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819180801|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819180801|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819180801|Device Size Text, specify|||Distal Balloon Diameter: 8.0 mm	
+M7819180801|Device Size Text, specify|||Proximal Balloon Diameter: 8.0 mm
+M7819180601|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819180601|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819180601|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819180601|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819180601|Device Size Text, specify|||Distal Balloon Diameter: 6.0 mm
+M7819180601|Device Size Text, specify|||Proximal Balloon Diameter: 8.0 mm
+M7819180451|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819180451|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819180451|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819180451|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819180451|Device Size Text, specify|||Distal Balloon Diameter: 4.5 mm
+M7819180451|Device Size Text, specify|||Proximal Balloon Diameter: 8.0 mm
+M7819180251|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819180251|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819180251|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819180251|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819180251|Device Size Text, specify|||Distal Balloon Diameter: 2.5 mm
+M7819180251|Device Size Text, specify|||Proximal Balloon Diameter: 8.0 mm
+M7819160601|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819160601|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819160601|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819160601|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819160601|Device Size Text, specify|||Distal Balloon Diameter: 6.0 mm
+M7819160601|Device Size Text, specify|||Proximal Balloon Diameter: 6.0 mm
+M7819160451|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819160451|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819160451|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819160451|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819160451|Device Size Text, specify|||Distal Balloon Diameter: 4.5 mm
+M7819160451|Device Size Text, specify|||Proximal Balloon Diameter: 6.0 mm	
+M7819160251|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819160251|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819160251|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819160251|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819160251|Device Size Text, specify|||Distal Balloon Diameter: 2.5 mm
+M7819160251|Device Size Text, specify|||Proximal Balloon Diameter: 6.0 mm
+M7819145451|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819145451|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819145451|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819145451|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819145451|Device Size Text, specify|||Distal Balloon Diameter: 4.5 mm
+M7819145451|Device Size Text, specify|||Proximal Balloon Diameter: 4.5 mm
+M7819145251|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819145251|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819145251|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819145251|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819145251|Device Size Text, specify|||Distal Balloon Diameter: 2.5 mm
+M7819145251|Device Size Text, specify|||Proximal Balloon Diameter: 4.5 mm
+M7819110801|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819110801|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819110801|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819110801|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819110801|Device Size Text, specify|||Distal Balloon Diameter: 8.0 mm	
+M7819110801|Device Size Text, specify|||Proximal Balloon Diameter: 10.0 mm
+M7819110601|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819110601|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819110601|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819110601|Device Size Text, specify|||Distal Balloon Diameter: 6.0 mm
+M7819110601|Device Size Text, specify|||Proximal Balloon Diameter: 10.0 mm	
+M7819110601|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M7819110451|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M7819110451|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M7819110451|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M7819110451|Device Size Text, specify|||Distal Balloon Diameter: 4.5 mm
+M7819110451|Device Size Text, specify|||Proximal Balloon Diameter: 10.0 mm
+M7819110451|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M78110480801|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M78110480801|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M78110480801|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M78110480801|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M78110480801|Device Size Text, specify|||Distal Balloon Diameter: 8.0 mm
+M78110480801|Device Size Text, specify|||Proximal Balloon Diameter: 8.0 mm
+M78110460601|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M78110460601|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M78110460601|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M78110460601|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M78110460601|Device Size Text, specify|||Distal Balloon Diameter: 6.0 mm
+M78110460601|Device Size Text, specify|||Proximal Balloon Diameter: 6.0 mm
+M78110445451|Device Size Text, specify|||Sheath Compatibility: 7 Fr
+M78110445451|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M78110445451|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M78110445451|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M78110445451|Device Size Text, specify|||Distal Balloon Diameter: 4.5 mm
+M78110445451|Device Size Text, specify|||Proximal Balloon Diameter: 4.5 mm
+M78110080801|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M78110080801|Device Size Text, specify|||Distal Balloon Diameter: 8.0 mm
+M78110080801|Device Size Text, specify|||Proximal Balloon Diameter: 8.0 mm
+M78110080801|Device Size Text, specify|||Sheath Compatibility: 10 Fr
+M78110080801|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M78110080801|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M78110060601|Device Size Text, specify|||Sheath Compatibility: 10 Fr
+M78110060601|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M78110060601|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M78110060601|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M78110060601|Device Size Text, specify|||Distal Balloon Diameter: 6.0 mm
+M78110060601|Device Size Text, specify|||Proximal Balloon Diameter: 6.0 mm
+M78110045251|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M78110045251|Device Size Text, specify|||Distal Balloon Diameter: 2.5 mm
+M78110045251|Device Size Text, specify|||Proximal Balloon Diameter: 4.5 mm
+M78110045251|Device Size Text, specify|||Sheath Compatibility: 10 Fr
+M78110045251|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M78110045251|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M78110010101|Device Size Text, specify|||Sheath Compatibility: 10 Fr
+M78110010101|Device Size Text, specify|||Treatment Length: 15 mm - 300 mm
+M78110010101|Device Size Text, specify|||Distal Balloon Useable Shaft Length: 165 cm
+M78110010101|Device Size Text, specify|||Proximal Balloon Shaft Length: 135 cm
+M78110010101|Device Size Text, specify|||Distal Balloon Diameter: 10.0 mm
+M78110010101|Device Size Text, specify|||Proximal Balloon Diameter: 10.0 mm	
+00811806011530|Outer Diameter|Millimeter|40|
+00811806011523|Outer Diameter|Millimeter|27|
+00811806011516|Outer Diameter|Millimeter|20|
+M465ACX10106|Device Size Text, specify|||Maximum balloon diameter 12mm
+M465ACX10106|Device Size Text, specify|||Effective length 99cm
+08714729402428|Device Size Text, specify|||40 mm Diameter
+08714729402428|Device Size Text, specify|||100 cm Effective Length
+08714729402404|Device Size Text, specify|||33 mm Diameter
+08714729402404|Device Size Text, specify|||100 cm Effective Length
+08714729402381|Device Size Text, specify|||27 mm Diameter
+08714729402381|Device Size Text, specify|||100 cm Effective Length
+08714729402367|Device Size Text, specify|||100 cm Effective Length
+08714729402367|Device Size Text, specify|||20 mm Diameter
+08714729402350|Device Size Text, specify|||20 mm Diameter
+08714729402350|Device Size Text, specify|||65 cm Effective Length
+00853892004126|Balloon Length|Millimeter|80|
+00853892004126|Catheter Length|Centimeter|90|
+00853892004126|Introducer Sheath Compatibility|French|10|
+00853892004126|Crossing Profile|French|10|
+00853892004119|Balloon Length|Millimeter|80|
+00853892004119|Catheter Length|Centimeter|90|
+00853892004119|Crossing Profile|French|8|
+00853892004119|Introducer Sheath Compatibility|French|8|
+00853892004065|Length|Centimeter|67|
+00853359008414|Catheter Working Length|Centimeter|165|
+00853359008087|Length|Centimeter|150|
+00853359008070|Length|Centimeter|130|
+00853359008063|Length|Centimeter|110|
+00853359008056|Length|Centimeter|110|
+00853359008049|Length|Centimeter|130|
+00853359008032|Length|Centimeter|150|
+00853359008025|Length|Centimeter|150|
+00853359008018|Length|Centimeter|130|
+00853359008001|Length|Centimeter|110|
+00733132639489|Device Size Text, specify|||Catheter Effective Length: 90 cm
+00733132639489|Catheter Gauge|French|10|
+00733132639489|Device Size Text, specify|||Maximum Balloon Diameter: 10-37 mm
+08714729112495|Device Size Text, specify|||8.5 mm Diameter
+08714729112495|Device Size Text, specify|||11.5 mm Diameter
+08714729112396|Device Size Text, specify|||11.5 mm Diameter
+08714729112389|Device Size Text, specify|||11.5 mm Diameter
+00813132024840|Length|Centimeter|90|
+00813132024666|Length|Centimeter|90|
+00813132023263|Length|Centimeter|90|
+07613327004526|Device Size Text, specify|||Balloon Outer Diameter: 7.0 Millimeter
+07613327004526|Length|Millimeter|15.0|
+07613327004496|Length|Millimeter|30.0|
+07613327004496|Device Size Text, specify|||Balloon Outer Diameter: 5.0 Millimeter
+07613327004472|Device Size Text, specify|||Balloon Outer Diameter: 5.0 Millimeter
+07613327004472|Length|Millimeter|15.0|
+07613327004465|Length|Millimeter|30.0|
+07613327004465|Device Size Text, specify|||Balloon Outer Diameter: 4.0 Millimeter
+07613327004441|Length|Millimeter|10.0|
+07613327004441|Device Size Text, specify|||Balloon Outer Diameter: 4.0 Millimeter
+07613327004434|Device Size Text, specify|||Balloon Outer Diameter: 4.0 Millimeter
+07613327004434|Length|Millimeter|15.0|
+07613327004427|Length|Millimeter|15.0|
+07613327004427|Device Size Text, specify|||Balloon Outer Diameter: 3.0 Millimeter
+08714729402411|Device Size Text, specify|||40 mm Diameter
+08714729402411|Device Size Text, specify|||65 cm Effective Length
+08714729402398|Device Size Text, specify|||33 mm Diameter
+08714729402398|Device Size Text, specify|||65 cm Effective Length
+08714729402374|Device Size Text, specify|||65 cm Effective Length
+08714729402374|Device Size Text, specify|||27 mm Diameter
+00690103043754|Device Size Text, specify|||MAXIMUM LIQUID CAPACITY: 43ML, MAXIMUM GAS CAPACITY: 50ML, DIAMETER OF INFLATED BALLOON: 45MM, MAXIMUM FRENCH SIZE OF DEFLATED BALLOON: 22F (7.3MM), CATHETER FRENCH SIZE: 8F (2.7M), LENGTH: 80CM
+00690103043747|Device Size Text, specify|||Maximum Liquid Capacity: 10ml, Maximum Gas Capacity: 20ml, Diameter of Inflated Balloon: 28mm, Maximum French Size of Deflated Balloon: 14F (4.7mm), Catheter French Size: 8F (2.7m), Length: 80cm
+00690103043730|Device Size Text, specify|||Maximum Liquid Capacity: 1.5ml, Maximum Gas Capacity: 3.0ml, Diameter of Inflated Balloon: 11mm, Maximum French Size of Deflated Balloon: 6.0F (2.0mm), Catheter French Size: 5F (1.67m), Length: 40cm
+00690103043723|Device Size Text, specify|||Maximum Liquid Capacity: 0.75ml, Maximum Gas Capacity: 1.7ml, Diameter of Inflated Balloon: 9mm, Maximum French Size of Deflated Balloon: 5.0F (1.67mm), Catheter French Size: 4F (1.33m), Length: 40cm
+00690103043716|Device Size Text, specify|||Maximum Liquid Capacity: 0.2ml, Maximum Gas Capacity: 0.6ml, Diameter of Inflated Balloon: 5mm, Maximum French Size of Deflated Balloon: 4.3F (1.43mm), Catheter French Size: 3F (1.00m), Length: 40cm
+07613327004717|Device Size Text, specify|||Balloon Outer Diameter: 3.0 Millimeter
+07613327004717|Length|Millimeter|5.0|
+07613327004700|Device Size Text, specify|||Balloon Outer Diameter: 7.0 Millimeter
+07613327004700|Length|Millimeter|7.0|
+07613327004694|Device Size Text, specify|||Balloon Outer Diameter: 4.0 Millimeter
+07613327004694|Length|Millimeter|7.0|
+07613327004687|Device Size Text, specify|||Balloon Outer Diameter: 5.0 Millimeter
+07613327004687|Length|Millimeter|10.0|
+07613327004519|Device Size Text, specify|||Balloon Outer Diameter: 7.0 Millimeter
+07613327004519|Length|Millimeter|10.0|
+07613327004502|Length|Millimeter|10.0|
+07613327004502|Device Size Text, specify|||Balloon Outer Diameter: 4.0 Millimeter
+07613327004489|Device Size Text, specify|||Balloon Outer Diameter: 5.0 Millimeter
+07613327004489|Length|Millimeter|20.0|
+07613327004458|Length|Millimeter|20.0|
+07613327004458|Device Size Text, specify|||Balloon Outer Diameter: 4.0 Millimeter
+07613327004410|Device Size Text, specify|||Balloon Outer Diameter: 3.0 Millimeter
+07613327004410|Length|Millimeter|10.0|
+00851994005003|Guidewire Diameter|Inch|0.014|
+00851994005003|Introducer Sheath Compatibility|French|6|
+00851994005003|Catheter Working Length|Centimeter|86|
+00851994005003|Outer Diameter|Inch|0.076|
+16286780610023|Total Volume|Milliliter|10|
+16286780610016|Balloon Diameter|Millimeter|25|
+16286780610016|Catheter Working Length|Centimeter|55|
+16286780610016|Length|Centimeter|64.9|
+16286780610016|Balloon Catheter Tip Length|Centimeter|6.4|
+16286780610016|Outer Diameter|Millimeter|1.35|
+00818053023002|Length|Centimeter|160|
+00818053023002|Catheter Inner Diameter|Inch|0.016|
+00818053022982|Catheter Inner Diameter|Inch|0.016|
+00818053022982|Length|Centimeter|160|
+00818053022968|Length|Centimeter|160|
+00818053022968|Catheter Inner Diameter|Inch|0.016|
+00818053022944|Catheter Inner Diameter|Inch|0.016|
+00818053022944|Length|Centimeter|160|
+00818053022937|Catheter Inner Diameter|Inch|0.016|
+00818053022937|Length|Centimeter|160|
+00818053022920|Length|Centimeter|160|
+00818053022920|Catheter Inner Diameter|Inch|0.016|
+00842429103401|Device Size Text, specify|||4.0 mm x 20 mm
+00842429103395|Device Size Text, specify|||4.0 mm x 15 mm
+00842429103388|Device Size Text, specify|||4.0 mm x 10 mm
+00842429106563|Device Size Text, specify|||2.2 mm x 9 mm
+00842429103418|Device Size Text, specify|||4.0 mm x 11 mm
+00853892004447|Introducer Sheath Compatibility|French|10|
+00853892004447|Catheter Length|Centimeter|120|
+00853892004089|Introducer Sheath Compatibility|French|10|
+00853892004089|Catheter Length|Centimeter|100|
+00853892004072|Introducer Sheath Compatibility|French|10|
+00853892004072|Catheter Length|Centimeter|65|
+00853892004010|Length|Centimeter|100|
+00853892004003|Length|Centimeter|65|
